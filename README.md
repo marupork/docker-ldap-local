@@ -8,7 +8,7 @@
     - Bind DN: `cn=admin,dc=example,dc=org`
     - Password: `password`
     - Root DN: `dc=example,dc=org`
-    - Host: `ldap://localhost:389`
+    - Host: `ldap://localhost:389` or `ldap://172.22.1.1:389`
     - `aadmin` is in the `Administrator` and `Developers` groups.
     - `jroe` and `jdoe` are in the `Developers` group.
 
